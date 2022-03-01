@@ -15,6 +15,8 @@
 ③	局域网游戏大厅初版  
 ## 关键技术
 pygame、tkinter、socket、threading、select等模块
+## 效果
+[![b116AO.png](https://s4.ax1x.com/2022/03/01/b116AO.png)](https://imgtu.com/i/b116AO)
 ## 总结
 ### 工作总结
 五子棋小游戏（2.5）实现了最开始的预定目标。  
